@@ -1,0 +1,10 @@
+Welcome to Mafia. 
+
+How to play:
+1. Choose how many players are playing and assign each person a player number
+2. Dont reveal your role or let people know what your role is. (There are 3 roles, Townsperson, Mafia and Jester)
+3. Talk with other players to try and figure out who the mafia is
+4. Vote out players based on your suspicion.
+
+The Mafia wins if there is more mafia than townspeople, likewise the townspeople win if they vote out all the Mafia.
+The jester wins if they get voted out.
